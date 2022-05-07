@@ -1,5 +1,5 @@
 /**
- * This1 file contains the configuration used for customising the website, such as the folder to share,
+ * This file contains the configuration used for customising the website, such as the folder to share,
  * the title, used Google fonts, site icons, contact info, etc.
  */
 module.exports = {
