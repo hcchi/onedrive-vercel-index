@@ -1,5 +1,5 @@
 /**
- * This 1file contains the configuration used for customising the website, such as the folder to share,
+ * This file contains the configuration used for customising the website, such as the folder to share,
  * the title, used Google fonts, site icons, contact info, etc.
  */
 module.exports = {
@@ -49,8 +49,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      //name: 'GitHub',
-      //link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      name: 'GitHub',
+      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
     {
       name: 'Telegram',
